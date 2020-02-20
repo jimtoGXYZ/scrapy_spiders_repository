@@ -1,0 +1,3 @@
+[submodule "cd_lianjia_spider"]
+	path = cd_lianjia_spider
+	url = https://github.com/jimtoGXYZ/scrapy_spiders_repository.git
