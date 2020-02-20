@@ -189,8 +189,5 @@ run.py 没有什么技术含量,请放心复制粘贴，创建完成后右键运
 ![](https://i.imgur.com/ElMVE32.png)
 
 
-## 项目地址
-[https://github.com/jimtoGXYZ/mm131CrawlSpider](https://github.com/jimtoGXYZ/mm131CrawlSpider)
-
 ## 写在最后
 研究生考试结束后花了两天把庆余年刷完了，然后就开始看python了，从python基础、高级、网络、mysql、mongodb、redis再到现在的爬虫，中间又出去玩，还要过年所以进度拖沓了。不过还好以前有Java基础，在学校学的东西也比较扎实，在实际应用中真的会联想运用其中，也算是可喜。不管考试结果如何，人生还是不断地战斗，既然选择做程序员，那就必须做好像马一样奔跑一生的准备，加油吧各位少年！
